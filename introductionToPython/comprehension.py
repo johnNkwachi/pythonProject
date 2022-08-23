@@ -1,7 +1,6 @@
 squares = []
 squares = [i *i for  i in range(1,11)]
 print(squares)
-
 names = ['bimpe', 'Banke', 'abimbola', 'Kelechi', 'James', 'Olalekan', 'Racheal']
 my_names = []
 for name in names:
